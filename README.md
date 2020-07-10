@@ -1,5 +1,7 @@
 # Spring Boot MVC REST API for Common Todos Backend Demo App
 
+Uses Spring Boot 2.3.1 and Java 14 (although 11+ should work)
+
 ### Running
 
 - App assumes PostgreSQL database and configs setup as environment variables and set in application.properties
