@@ -12,7 +12,7 @@ spring.datasource.password=${DB_PASSWORD}
 
 - Database DDL in src/main/resources/schema.sql executed automatically at start thanks to spring boot jpa as long as DB_URI is set (see example below from IntelliJ)
 
-<img src="https://github.com/amcquistan/spring-boot-todos-rest-api/blob/master/Todos%20Environment%20Variables.png">
+<img src="https://github.com/amcquistan/spring-boot-todos-rest-api/blob/master/todos-env-variables.png">
 
 - Two Seed Users get added first time you run app
 
